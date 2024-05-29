@@ -1,0 +1,13 @@
+If you have two SSD1306 screens.
+Solder one of the jumpers to change the address to 0x3D
+
+For use with Arduino Uno (& WiFi)
+Wire your SDA channel to A4
+Wire your SCL channel to A5
+
+Connect Ground and 5v
+
+Load Program
+
+Enjoy
+
